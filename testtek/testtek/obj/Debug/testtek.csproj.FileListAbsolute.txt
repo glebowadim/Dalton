@@ -1,0 +1,13 @@
+C:\Users\1\Desktop\Laba1\testtek\testtek\Bin\Debug\ApplicationIcon.png
+C:\Users\1\Desktop\Laba1\testtek\testtek\Bin\Debug\Background.png
+C:\Users\1\Desktop\Laba1\testtek\testtek\Bin\Debug\testtek.dll
+C:\Users\1\Desktop\Laba1\testtek\testtek\Bin\Debug\testtek.pdb
+C:\Users\1\Desktop\Laba1\testtek\testtek\Bin\Debug\AppManifest.xaml
+C:\Users\1\Desktop\Laba1\testtek\testtek\Bin\Debug\testtek.xap
+C:\Users\1\Desktop\Laba1\testtek\testtek\obj\Debug\testtek.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Laba1\testtek\testtek\obj\Debug\App.g.cs
+C:\Users\1\Desktop\Laba1\testtek\testtek\obj\Debug\MainPage.g.cs
+C:\Users\1\Desktop\Laba1\testtek\testtek\obj\Debug\testtek.g.resources
+C:\Users\1\Desktop\Laba1\testtek\testtek\obj\Debug\testtek.dll
+C:\Users\1\Desktop\Laba1\testtek\testtek\obj\Debug\testtek.pdb
+C:\Users\1\Desktop\Laba1\testtek\testtek\obj\Debug\XapCacheFile.xml
